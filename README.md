@@ -15,21 +15,37 @@ ________________________________________
 **DATASET DESCRIPTION**
 
 File: https://github.com/qusanskritibisht15/Predicting-Employee-Attrition/blob/main/employee-attrition.csv
+
 Source: Simulated organizational HR dataset
+
 The dataset provides a detailed overview of the workforce, including:
-Feature	Description
-Age	Employee age
-Department	Department of employment
-JobRole	Specific job designation
-MonthlyIncome	Monthly salary
-Gender	Male/Female
-Job Satisfaction	Employee’s satisfaction score
-Work-Life Balance	Balance rating
-Overtime	Whether the employee works overtime
-YearsAtCompany	Total years spent in the organization
-NumCompaniesWorked	Past job experience
-Environment Satisfaction	Work environment rating
-Attrition	Whether the employee left the organization
+
+**Feature	Description**
+
+Age-Employee age
+
+Department-Department of employment
+
+JobRole-Specific job designation
+
+MonthlyIncome-Monthly salary
+
+Gender-Male/Female
+
+Job Satisfaction-Employee’s satisfaction score
+
+Work-Life Balance-Balance rating
+
+Overtime-Whether the employee works overtime
+
+YearsAtCompany-Total years spent in the organization
+
+NumCompaniesWorked-Past job experience
+
+Environment Satisfaction-Work environment rating
+
+Attrition-Whether the employee left the organization
+
 This rich mix of demographic, satisfaction, performance, and employment-related variables supports detailed attrition analysis.
 ________________________________________
 **LIBRARIES USED**
