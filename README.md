@@ -1,5 +1,5 @@
 # Predicting-Employee-Attrition
-This project analyzes employee attrition using machine learning and EDA. It identifies key factors like income, job level, age, and experience influencing attrition. Visualizations highlight workforce behavior patterns, helping HR teams design effective retention strategies.
+
 
 **OVERVIEW**
 
@@ -14,7 +14,7 @@ ________________________________________
 ________________________________________
 **DATASET DESCRIPTION**
 
-File: 
+File: https://github.com/qusanskritibisht15/Predicting-Employee-Attrition/blob/main/employee-attrition.csv
 Source: Simulated organizational HR dataset
 The dataset provides a detailed overview of the workforce, including:
 Feature	Description
